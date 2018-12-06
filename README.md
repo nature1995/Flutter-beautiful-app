@@ -13,9 +13,23 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 Flutter allows you to build beautiful native apps on iOS and Android from a single codebase.
 
 ## Introduction
+
 Flutter is a multi platform, open source, and free framework for creating mobile applications, created by Google. It is very easy to learn and currently it is getting more and more popular. With this blogpost you will learn some basic stuff about Flutter, and after reading it, you will be able to create a simple application using this technology.
 
 Flutter Widget采用现代响应式框架构建，这是从 React 中获得的灵感，中心思想是用widget构建你的UI。 Widget描述了他们的视图在给定其当前配置和状态时应该看起来像什么。当widget的状态发生变化时，widget会重新构建UI，Flutter会对比前后变化的不同， 以确定底层渲染树从一个状态转换到下一个状态所需的最小更改。
+
+
+## Install
+
+Please select the operating system where you want to install Flutter:
+
+<div class="homepage__button_row">
+  <a href="https://flutter.io/docs/get-started/install/windows">Windows</a>&nbsp
+  <a href="https://flutter.io/docs/get-started/install/macos">macOS</a>&nbsp
+  <a href="https://flutter.io/docs/get-started/install/linux">Linux</a>&nbsp
+</div>
+
+# Getting Start
 
 ## Hello World
 
@@ -34,16 +48,12 @@ void main() {
   );
 }
 ```
-## Install
 
-Please select the operating system where you want to install Flutter:
+## references
 
-<div class="homepage__button_row">
-  <a href="https://flutter.io/docs/get-started/install/windows">Windows</a>&nbsp
-  <a href="https://flutter.io/docs/get-started/install/macos">macOS</a>&nbsp
-  <a href="https://flutter.io/docs/get-started/install/linux">Linux</a>&nbsp
-</div>
-
+- [Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
+- [Useful Flutter samples](https://flutter.io/docs/cookbook)
+- [online documentation](https://flutter.io/docs)
 
 
 
