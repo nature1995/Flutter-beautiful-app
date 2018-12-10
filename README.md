@@ -18,6 +18,10 @@ Flutter is a multi platform, open source, and free framework for creating mobile
 
 Flutter Widget采用现代响应式框架构建，这是从 React 中获得的灵感，中心思想是用widget构建你的UI。 Widget描述了他们的视图在给定其当前配置和状态时应该看起来像什么。当widget的状态发生变化时，widget会重新构建UI，Flutter会对比前后变化的不同， 以确定底层渲染树从一个状态转换到下一个状态所需的最小更改。
 
+## Cross-platform comparison
+
+![Cross-platform ](/other-img/diff.png)
+
 
 ## Install
 
