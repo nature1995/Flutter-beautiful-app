@@ -12,7 +12,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 Flutter allows you to build beautiful native apps on iOS and Android from a single codebase.
 
-## Introduction
+# Introduction
 
 Flutter is a multi platform, open source, and free framework for creating mobile applications, created by Google. It is very easy to learn and currently it is getting more and more popular. With this blogpost you will learn some basic stuff about Flutter, and after reading it, you will be able to create a simple application using this technology.
 
